@@ -114,8 +114,9 @@ This
         });
       },
 
-      onError: function (err) {
-        console.log(err);
+      on: function (on) {
+        console.log(sucefuell
+);
       }
     }).render('#paypal-button-container');
   }
